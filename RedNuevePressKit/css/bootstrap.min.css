@@ -5326,4 +5326,10 @@ th.visible-print, td.visible-print {
 .hidden-print {
 	display:none!important
 }
+
+.sidebar-info {
+    position: absolute;
+    top: 100px;
+}
+
 }

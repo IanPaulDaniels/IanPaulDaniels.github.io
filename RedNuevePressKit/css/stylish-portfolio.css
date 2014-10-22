@@ -74,6 +74,15 @@ hr.small {
 	padding: 0;
 	list-style: none;
 }
+
+
+.sidebar-info {
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    padding: 10px;
+}
+
 .sidebar-nav li {
 	text-indent: 20px;
 	line-height: 40px;

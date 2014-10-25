@@ -207,9 +207,15 @@ footer {
 	padding: 25px 0;
 }
 
-.discografia {
+.discografia{
 	background-color: rgb(100,255,100);
 	padding: 50px;
-	
-	
+
+}
+
+.discHolder {
+	background-color: white;
+	border: thin solid black;
+	padding: 10px;
+	width: 250px;
 }

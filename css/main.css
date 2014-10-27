@@ -1,0 +1,15 @@
+.mainTable {
+    border: thin black solid;
+    
+}
+
+.mainTable td, th {
+    padding: 10px;
+    border: thin black solid;
+}
+
+.mainTable th {
+    text-align: center;
+    font-size: 1.3em;
+    background-color: rgba(0,0,0,0.1);
+}

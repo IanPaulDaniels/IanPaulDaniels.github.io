@@ -1,5 +1,6 @@
 html {
     width:90%;
+    
     margin-left: 5%;
 	background-color: rgba(0,0,200,0.2);
 }
@@ -35,4 +36,13 @@ footer {
     width: 90%;
     text-align: center;
     background-color: rgba(0,0,200,0.1);   
+}
+
+iframe {
+    visibility: hidden;
+
+}
+
+#activeFrame {
+    visibility: visible;
 }
